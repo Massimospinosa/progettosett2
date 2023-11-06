@@ -61,6 +61,7 @@ main>div{
     height: 22em;
     margin:20px 20px 20px 20px;
     box-shadow: 10px 10px 5px rgba(202, 202, 202, 0.803);
+    object-fit:cover;
 }
 h2{
     font-weight: bolder;
